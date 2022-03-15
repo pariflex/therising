@@ -7,11 +7,11 @@
   font-family: "Poppins";
 }
 body {
-  background-color: #091921;
+  background-color: #EA7627;
   display: flex;
   justify-content: center;
   min-height: 100vh;
-  align-items: center;
+  align-items: left;
 }
 .content {
   color: #fff;
